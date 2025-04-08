@@ -1,0 +1,22 @@
+{
+  "name": "shipment-app-v1",
+  "version": "1.1.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvanLo427/shipment-app-v1.1.5.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "gh-pages": "^6.0.0"
+  }
+}
