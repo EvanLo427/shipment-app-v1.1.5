@@ -43,4 +43,4 @@ shipment-app-v1/
 
 ---
 
-Made with ❤️ by 出貨小組.
+Made with ❤️ by RUTH RD.
